@@ -1,1 +1,13 @@
 git clone url
+
+git status
+
+git add --a
+
+git commit -m "comment for aiwaii"
+
+
+git pull
+
+git push 
+
