@@ -12,6 +12,12 @@ import org.testng.annotations.Test;
 public class LoginPage {
 
 	WebDriver driver = null;
+	
+	public void smain() {
+		// TODO Auto-generated method stub
+		System.out.println("Added a new class");
+
+	}
 
 	@Test(priority=0)
 	public void login() throws InterruptedException{ 
