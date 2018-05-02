@@ -1,6 +1,9 @@
 package com.SeleniumEasy;
 import org.openqa.selenium.WebDriver;
 
-public class WelcomePage{
+import Base.InitBase;
+
+public class WelcomePage extends InitBase{
+	
 	
 }
